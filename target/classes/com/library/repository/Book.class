@@ -1,0 +1,14 @@
+Êþº¾   = 4
+       java/lang/Object <init> ()V	  	  
+ 
+  java/lang/System out Ljava/io/PrintStream;      makeConcatWithConstants &(Ljava/lang/String;)Ljava/lang/String;
+       java/io/PrintStream  println (Ljava/lang/String;)V   %com/library/repository/BookRepository Code LineNumberTable LocalVariableTable this 'Lcom/library/repository/BookRepository; saveBook title Ljava/lang/String; 
+SourceFile BookRepository.java RuntimeVisibleAnnotations +Lorg/springframework/stereotype/Repository; BootstrapMethods ' 
+Book saved:  )
+ * +  ,  - $java/lang/invoke/StringConcatFactory ˜(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/invoke/CallSite; InnerClasses  0 %java/lang/invoke/MethodHandles$Lookup  2 java/lang/invoke/MethodHandles Lookup !               /     *· ±                               E     
+²  +º 
+  ¶ ±       
+      	        
+       
+      !    " #     $   %     (  & .   
+  / 1 3 
