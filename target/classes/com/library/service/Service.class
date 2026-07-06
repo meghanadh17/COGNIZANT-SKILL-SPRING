@@ -1,0 +1,17 @@
+Êþº¾   = "
+       java/lang/Object <init> ()V	  	  
+ 
+  com/library/service/BookService bookRepository 'Lcom/library/repository/BookRepository;
+       %com/library/repository/BookRepository saveBook (Ljava/lang/String;)V *(Lcom/library/repository/BookRepository;)V Code LineNumberTable LocalVariableTable this !Lcom/library/service/BookService; RuntimeVisibleAnnotations 8Lorg/springframework/beans/factory/annotation/Autowired;  addBook title Ljava/lang/String; setBookRepository 
+SourceFile BookService.java (Lorg/springframework/stereotype/Service; !       
+            F     
+*· *+µ  ±           
+   	         
+       
+ 
+                  3     *· ±       
+                          A     	*´  +¶ 
+±       
+              	       	           >     *+µ  ±       
+                      
+               !  
